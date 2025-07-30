@@ -2,7 +2,7 @@
 -- 使用：
 -- lua lua-dependencies-checkout.lua <your-pkg-install-path>
 --
--- 如: lua lua-dependencies-checkout.lua./thirdlibs/
+-- 例如: lua lua-dependencies-checkout.lua ./thirdlibs/
 --
 -- 将会输出依赖包安装命令🥱
 -- luarocks install lua-cjson 2.1.0.10-1 --tree ./thirdlibs
